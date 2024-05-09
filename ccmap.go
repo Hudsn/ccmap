@@ -187,6 +187,7 @@ var ccTable = map[string]string{
 	"pf": "French Polynesia",
 	"pg": "Papua New Guinea",
 	"ph": "The Philippines",
+	"pk": "Pakistan",
 	"pl": "Poland",
 	"pm": "Saint Pierre and Miquelon",
 	"pn": "Pitcairn",
